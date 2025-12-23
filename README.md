@@ -113,6 +113,12 @@ Después de realizar pruebas exhaustivas, la configuración óptima es:
    - Split 80/20 (train/test)
    - Entrenamiento del modelo seleccionado
    - Cálculo de métricas de rendimiento
+  
+5. **Aplicacion:**
+
+```bash
+https://diplomadoestadistica.onrender.com/
+```
 
 ## 📝 Notas Adicionales
 
