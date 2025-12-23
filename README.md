@@ -2,6 +2,7 @@
 
 Aplicación interactiva de Machine Learning para predecir precios de automóviles usando múltiples algoritmos y técnicas de optimización.
 
+
 ## 📋 Requisitos
 
 - Python 3.10 o superior
@@ -40,8 +41,8 @@ La aplicación se abrirá automáticamente en tu navegador en `http://localhost:
 ```
 TareaDiplomadoIslas/
 ├── streamlit_app.py              # Aplicación principal de Streamlit
-├── alexis_data_challenge_.py     # Modelo base inicial
-├── analisis_exploratorio.py   # Análisis exploratorio de features
+├── alexis_data_challenge_.py     # Modelo base inicial 
+├── analisis_exploratorio.py      # Análisis exploratorio de features
 ├── car_price_prediction.csv      # Dataset de entrenamiento
 └── README.md                     # Este archivo
 ```
